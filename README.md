@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## Career
+## Career 📖
 
 | Year | Job | Lang |
 | --- | --- | --- |
@@ -24,7 +24,7 @@
 | 2018 ~ 2020 | ERP system | Java |
 | 2020 ~ 2021 | PRA system | Python |
 
-## Github Summary
+## Github Summary 🖋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kissy24&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kissy24&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kissy24&theme=monokai)
