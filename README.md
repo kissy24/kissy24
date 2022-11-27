@@ -1,4 +1,4 @@
-## Hi 👋, I'm kissy24
+## 👋 Hi, I'm kissy24
 
 <p align="left"> 
   <a href="https://github.com/kissy24/kissy24/">
