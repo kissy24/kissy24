@@ -1,11 +1,8 @@
-## Kissy24's Profile 📄
+### Hello 👋, I'm kissy24
 
 <p align="left"> 
   <a href="https://github.com/kissy24/kissy24/">
     <img src="https://komarev.com/ghpvc/?username=kissy24" alt="kissy24" />
-  </a>
-  <a href="https://github.com/kissy24">
-    <img height="20" src="https://img.shields.io/github/followers/kissy24?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/kissy24">
     <img height="20" src="https://qiita-badge.apiapi.app/s/kissy24/posts.svg" />
@@ -15,22 +12,11 @@
   </a>
 </p>
 
-### Languages
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
+I enjoy personal development using Python and Go.
+- Occupation: Development and management of RPA systems
+- Roles: Tech Lead, Engineering Manager, Scrum Master
+- Languages: Python, Go, Java, C#, JavaScript
+- Other: Also involved in engineering education and recruitment.
 
-### Activity
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kissy24&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kissy24&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
-</p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kissy24&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kissy24&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kissy24&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kissy24&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kissy24&theme=github_dark)
