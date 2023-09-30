@@ -13,10 +13,11 @@
 </p>
 
 I enjoy personal development using Python and Go.
-- Occupation: Development and management of RPA systems
-- Roles: Tech Lead, Engineering Manager, Scrum Master
+- Occupation: Development and management of business automation systems
+- Roles: Product Manager, Engineering Manager, Scrum Master
 - Languages: Python, Go, Java, C#, JavaScript
 - Other: Also involved in engineering education and recruitment.
+- In the past, I have done ERP System development and NLP service development.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kissy24&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kissy24&theme=github_dark)
