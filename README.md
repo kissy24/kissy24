@@ -33,7 +33,7 @@ I mainly use my personal GitHub account for individual development and learning 
 - Tools : Git, GitHub Actions, Redmine, Jenkins, Notion, VSCode, Vim, Neovim
 - Others : Management(EM, PdM), Scrum(PO, SM), ERP, DX, AI, Recruitment, Education, Evaluation
 
-## Summary Cards
+## 📊 Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kissy24&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kissy24&theme=github_dark)
