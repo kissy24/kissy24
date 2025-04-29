@@ -33,6 +33,14 @@ I mainly use my personal GitHub account for individual development and learning 
 - Tools : Git, GitHub Actions, Redmine, Jenkins, Notion, VSCode, Vim, Neovim
 - Others : Management(EM, PdM), Scrum(PO, SM), ERP, DX, AI, Recruitment, Education, Evaluation
 
+## 📃 Articles
+
+- [【Python】uvで始めるPythonプロジェクト](https://qiita.com/kissy24/items/0c091bb5f12d697131ae)
+- [【生成AI】サクッと学ぶプロンプトエンジニアリング手法](https://qiita.com/kissy24/items/1dce568e4a22ef5ada8a)
+- [SPACEフレームワークの測定指標を アンケート + 1on1 を用いて運用する](https://qiita.com/kissy24/items/decfac2256324a5227ea)
+- [【入門】Python を書く前に知っておきたいデータ型のあれこれ](https://qiita.com/kissy24/items/40b511cee9b555b46691)
+- [「3年先を見据えた投資、エンジニアのための革新的な評価制度」](https://pr.forkwell.com/career_navi/fierte/)
+
 ## 📊 Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kissy24&theme=github_dark)
