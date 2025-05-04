@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href=https://github.com/kissy24><img height="20" src="https://img.shields.io/github/followers/kissy24?label=Follow&style=social" /></a>
-  <a href="http://x.com/kissy24"><img height="20" src="https://img.shields.io/twitter/follow/kissy24?style=flat&logo=x" /></a>
 </p>
 
 <p align="center"> 
